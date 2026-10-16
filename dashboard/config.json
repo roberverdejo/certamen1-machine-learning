@@ -1,0 +1,7 @@
+{
+  "C_FP": 100,
+  "C_FN": 1000,
+  "umbral_teorico": 0.09090909090909091,
+  "umbral_empirico_manual": 0.07,
+  "umbral_tuned": 0.08
+}

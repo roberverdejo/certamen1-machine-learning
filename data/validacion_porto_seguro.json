@@ -1,0 +1,16 @@
+{
+  "shape": [
+    595212,
+    58
+  ],
+  "predictores": 57,
+  "clase_minoritaria": 1,
+  "porcentaje_minoritario": 3.6447517859182947,
+  "requisitos": {
+    "Más de 100.000 registros": true,
+    "Objetivo binario 0/1": true,
+    "Clase minoritaria entre 1% y 30%": true,
+    "Al menos 8 predictores": true,
+    "Objetivo sin nulos": true
+  }
+}
